@@ -2,9 +2,9 @@
 
 无刷电机控制板相关资料
 
-<img title="" src="%5B4%5D图片/4T_FOC.png" alt="4T_FOC.png" width="">
+<img title="" src="%5B4%5D图片/4T_FOC_G4Q1.png" alt="4T_FOC.png" width="">
 
-%5B4%5D图片/4T_AS5600.png
+<img title="" src="%5B4%5D图片/4T_AS5600.png" alt="4T_FOC.png" width="">
 
 ## 文件结构
 
@@ -14,7 +14,7 @@
   - 4T_FOC_datasheet：电机控制板相关手册
   - 无刷电机控制驱动板用户手册
 
-- [2]综合测试例程：综合测试程序
+- [2]测试例程：综合测试程序
   
   - 综合测试程序
 
